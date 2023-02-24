@@ -1,5 +1,5 @@
 - :wave: Hi there! I am Lois.
-- :woman_technologist: I am a data science enthusiast who likes to research and work on different machine learning problems .
+- :woman_technologist: I am a data science enthusiast who likes to research and work on different machine learning problems.
 - :seedling: I'm currently learning about Time Series Forecasting models.
 - :zap: In my free time, I read technology blogs and try my hand at gardening.
 - :mailbox: How to reach me: [amulya.lois@gmail.com](mailto:amulya.lois@gmail.com)
@@ -26,21 +26,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="30" height="30"/>
 </div>
-
-
-
-
-<!--
-**lois2inn/lois2inn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
