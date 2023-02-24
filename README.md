@@ -4,7 +4,7 @@
 - :zap: In my free time, I read technology blogs and try my hand at gardening.
 - :mailbox: How to reach me: [amulya.lois@gmail.com](mailto:amulya.lois@gmail.com)
 ---
-### :hammer_and_wrench: Languages and Tools:
+#### :hammer_and_wrench: Languages and Tools:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
