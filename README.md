@@ -1,7 +1,7 @@
 - :wave: Hi there! I am Lois.
 - :woman_technologist: I am a data science enthusiast who likes to research and work on different machine learning problems.
 - :seedling: I'm currently learning about Natural Language Processing with Python.
-- :zap: In my free time, I read technology blogs and try my hand at gardening.
+- :zap: In my free time, I read technology blogs.
 - :mailbox: How to reach me: [amulya.lois@gmail.com](mailto:amulya.lois@gmail.com)
 ---
 #### :hammer_and_wrench: Languages and Tools:
