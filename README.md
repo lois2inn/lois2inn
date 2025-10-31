@@ -1,7 +1,4 @@
-- :wave: Hi there! I am Lois.
-- :woman_technologist: I am a data science enthusiast who likes to research and work on different machine learning problems.
-- :seedling: I'm currently learning about Natural Language Processing with Python.
-- :zap: In my free time, I read technology blogs.
+I am a Software Engineer with a strong interest in Data Science and Artificial Intelligence. My work is driven by a passion for coding, analytical thinking, and building data-driven solutions. I am currently focused on expanding my expertise in AI application development, exploring innovative ways to integrate machine learning into real-world systems.
 - :mailbox: How to reach me: [amulya.lois@gmail.com](mailto:amulya.lois@gmail.com)
 ---
 #### :hammer_and_wrench: Languages and Tools:
